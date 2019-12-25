@@ -92,7 +92,7 @@ Really apologize for that...
 
 ## Links
 
-This example uses the following libraries and frameworks provided by Mehdi Najafian:
+This example uses the following libraries and frameworks:
 
 * [JAVA 8](https://www.oracle.com/technetwork/java/javase/overview/java8-2100321.html)
 * [Spring Boot](https://start.spring.io)
