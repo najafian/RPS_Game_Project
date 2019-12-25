@@ -1,0 +1,57 @@
+.rps-rock-class {
+    background: url('../images/rpsRock.png');
+    background-size: cover;
+    display: table;
+    width: 100px;
+    height: 100px;
+}
+
+.rps-paper-class {
+    background-image: url('../images/rpsPaper.png');
+    background-size: cover;
+    display: table;
+    width: 100px;
+    height: 100px;
+}
+
+.rps-scissors-class {
+    background-image: url('../images/rpsScissors.png');
+    background-size: cover;
+    display: table;
+    width: 100px;
+    height: 100px;
+}
+
+.rps-question-class {
+    background-image: url('../images/questionMark.jpeg');
+    background-size: cover;
+    display: table;
+    width: 100px;
+    height: 100px;
+}
+
+.rps-choice-button-class {
+    width: 240px;
+    margin: 10px auto;
+    border: 1px solid gray;
+    padding: 5px;
+    borderRadius: 5px;
+}
+.rps-game-player-label{
+    width: 100%;
+    text-align: center;
+    color: #7d0a2f;
+}
+
+.rps-move-image-class{
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+}
+
+.rps-panel-move-image-class{
+    border: 1px solid skyblue;
+    borderRadius: 2px;
+    width: 140px;
+    margin: 0 auto;
+}
