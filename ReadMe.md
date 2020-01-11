@@ -93,6 +93,11 @@ Really apologize for that...
 username:mehdi
 password:123456
 
+username:michael
+password:123456
+
+username:david
+password:123456
 
 ## Links
 
