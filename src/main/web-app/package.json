@@ -37,7 +37,7 @@
     "redux-devtools-log-monitor": "1.4.0",
     "redux-promise-middleware": "6.1.0",
     "redux-thunk": "2.3.0",
-    "sanitize-html": "^1.20.1",
+    "sanitize-html": "^2.3.2",
     "tslint-react": "3.6.0",
     "typescript": "^3.7.3"
   },
